@@ -74,4 +74,4 @@ Using OOP principles, create a js script that includes the following:
 
            1700 - FEATURE 4 IN PROGRESS
 ## Credits and Collaborations
-* Jerome Joff
+* Jerome Joof
